@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Hank Quinlan, Horrible Cop, Launches Site"
-date: 2014-04-30
+title: "All about sharing"
+date: 2018-03-04
 ---
 
 This is my 1st post using jekyll and gitpage.
